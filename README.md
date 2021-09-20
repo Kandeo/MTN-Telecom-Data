@@ -24,7 +24,7 @@ Exploratory data analysis techniques.}
 {No Known Bugs }
 
 ## Technologies Used
-{Pandas and Numpy Libraries}
+{HTML}
 
 ## Support and contact details
 {To make a contribution to the code or any part of the project, 
