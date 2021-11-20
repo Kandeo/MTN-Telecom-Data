@@ -1,11 +1,11 @@
-# Moringa_Data_Science_Prep_W3_I.P_2021_Christine_Kiki_Python_Notebook.ipynb
+
 
 #### Data Science Project, September 2021
 
 #### By **Christine Kiki**
 
 ## Description
-In this weeks Independent project, i will be working as a Data Scientist for MTN Cote d'Ivoire, a leading telecom company in solving the following research question:
+In this project, i will be working as a Data Scientist for MTN Cote d'Ivoire, a leading telecom company in solving the following research question:
 
 Currently MTN Cote d'Ivoire would like to upgrade its technology infrastructure for its mobile users in Ivory Coast. 
 
