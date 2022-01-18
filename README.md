@@ -32,4 +32,4 @@ To make a contribution to the code or any part of the project,
 Kindly contact me through; christinekandeo@gmail.com.
 ### License
 
-Copyright (c) 2021 **Moringa School. Data Science**
+Copyright (c) 2021 
